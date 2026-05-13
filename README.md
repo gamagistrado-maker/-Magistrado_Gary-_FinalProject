@@ -29,7 +29,7 @@ python src/main.py
 - Context managers
 
 ## Sample CLI Usage
-(Add screenshots here)
+"C:\Users\Admin\Desktop\Magistrado_Gary_Final_Project\Screenshot (654).png"
 
 ## Video Demonstration
 (Add YouTube link here)
