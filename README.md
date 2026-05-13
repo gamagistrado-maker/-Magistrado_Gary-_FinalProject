@@ -29,7 +29,7 @@ python src/main.py
 - Context managers
 
 ## Sample CLI Usage
-"C:\Users\Admin\Desktop\Magistrado_Gary_Final_Project\Screenshot (654).png"
+https://github.com/gamagistrado-maker/-Magistrado_Gary-_FinalProject/blob/master/Screenshot%20(654).png?raw=true
 
 ## Video Demonstration
 (Add YouTube link here)
